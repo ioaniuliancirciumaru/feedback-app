@@ -4,4 +4,4 @@
 
 ### Built using Flask and PostgreSQL
 
-![](https://ibb.co/v38dqDT)
+![](<a href="https://ibb.co/v38dqDT"><img src="https://i.ibb.co/LxfgRvc/example.png" alt="example" border="0"></a>)
